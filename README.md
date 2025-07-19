@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # spring-boot-rest-crud-api
 Demo Project To Perform Crud Operation Using Spring Boot
 
@@ -188,3 +189,7 @@ Response:
 ```
 
 
+=======
+# springboot-swagger-firstProject
+practice to add swagger to existing project
+>>>>>>> 9643852a88cc4ae07ac32f9daaf21c733f4c8b3e
